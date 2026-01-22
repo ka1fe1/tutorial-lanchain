@@ -52,4 +52,4 @@ flowchart LR
     s0 --> s7 -->|"keys"| k7
 ```
 
-[langgraph quick start](https://github.com/langchain-ai/langgraph/blob/main/docs/tutorial-app/langgraph/1-quick-start/5-manually-update-state.py)
+[langgraph quick start](https://github.com/ka1fe1/tutorial-langchain/blob/main/tutorial-app/langgraph/1-quick-start/5-manually-update-state.py)
